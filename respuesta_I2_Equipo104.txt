@@ -14,3 +14,13 @@ No.
 d-¿Los datos que tenía en mi repositorio , editados por mi, se pierden si quiero actualizar
 el fork?
 No, no remplaza mis datos.
+
+e- Comienzo:
+git clone linkAlRepositorio //clone el repo.
+git checkout -b Ferrerov-main main // me posiciono en la rama.
+git pull linkAlRepositorio main // copio los datos desde git a mi carpeta local.
+git add . //preparo mis datos locales para subirlos
+git commit -m "texto" //preparo el commit a subir
+git push linkAlRepositorio main //subo los datos al repositorio principal, o lo hago desde la pagina de git 
+pidiendo una pull request, ya que desde el comando pueden surgir errores.
+	      
