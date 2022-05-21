@@ -9,3 +9,8 @@ utilizando el comando git pull [url del repositorio] main
 b-¿Puede ALFA actualizar su FORK al estado del fork de GAMMA?
 
 No.
+c-¿Puede GAMMA actualizar su FORK al estado del fork de ALFA?
+No.
+d-¿Los datos que tenía en mi repositorio , editados por mi, se pierden si quiero actualizar
+el fork?
+No, no remplaza mis datos.
